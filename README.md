@@ -1,5 +1,8 @@
 # Network Security Simulation Project
 
+## Purpose
+To simulate and demonstrate enterprise-level network design, configuration, and security implementation using Cisco Packet Tracer.
+
 ## Overview
 This project demonstrates the design and implementation of an enterprise-level network using Cisco Packet Tracer. It includes both foundational and advanced networking concepts, focusing on network design, configuration, and security.
 
@@ -40,6 +43,9 @@ The simulation covers the configuration and implementation of:
 
 ## Documentation
 A detailed project report is included in this repository outlining configurations, design decisions, and testing results.
+
+## Status
+Completed academic network simulation project demonstrating core and advanced networking concepts.
 
 ---
 
